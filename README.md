@@ -1,21 +1,18 @@
-# CodeClause-Data Science
-CodeClause Internship Projects
+<h1 align=center>CodeClause Internship</h1>
 
 
-# Project 1 - Churn Prediction in Telecom Industry using Logistic Regression
+<h2> Data Science Internship Projects </h2>
 
-Description— According to EuropeanBusinessReview, telecommunication providers lose close to $65 million a month from customer churn. Isn’t that expensive? With many emerging telecom giants, the competition in the telecom sector is increasing and the chances of customers discontinuing a service are high. This is often referred to as Customer Churn in Telecom. Telecommunication providers that focus on quality service, lower—cost subscription plans, availability of content and features whilst creating positive customer service experiences have high chances of customer retention. The good news is that all these factors can be measured with different layers of data about billing history, subscription plans, cost of content, network/bandwidth utilization, and more to get a 360—degree view of the customer. This 360—degree view of customer data can be leveraged for predictive analytics to identify patterns and various trends that influence customer satisfaction and help reduce churn in telecom.
- 
-# Project 2 - Market Basket Analysis in Python using Apriori Algorithm
+<ol>
+  <li> Churn Prediction in Telecom Industry using Logistic Regression </li>
+  <p><a href="https://github.com/charvijain12/CodeClause-Data-Science/tree/main/Churn%20Prediction%20in%20Telecom%20Industry%20using%20Logistic%20Regression">Code and Dataset</a></p>
+  
+  <li> Market Basket Analysis in Python using Apriori Algorithm </li>
+  <p><a href="https://github.com/charvijain12/CodeClause-Data-Science/tree/main/Market%20Basket%20Analysis%20in%20Python%20using%20Apriori%20Algorithm">Code and Dataset</a></p>
+  
+  <li> Price Recommendation for Online Sellers </li>
+  <p><a href="https://github.com/charvijain12/CodeClause-Data-Science/tree/main/Price%20Recommendation%20for%20Online%20Sellers">Code and Dataset</a></p>
+  
 
-Description— Whenever you visit a retail supermarket, you will find that baby diapers and wipes, bread and butter, pizza base and cheese, beer, and chips are positioned together in the store for sales. This is what market basket analysis is all about — analyzing the association among products bought together by customers. Market basket analysis is a versatile use case in the retail industry that helps cross—sell products in a physical outlet and also helps e—commerce businesses recommend products to customers based on product associations. Apriori and FP growth are the most popular machine learning algorithms used for association learning to perform market basket analysis.
-
-
-# Project 3 - Price Recommendation for Online Sellers
-
-Description— E—commerce platforms today are extensively driven by machine learning algorithms, right from quality checking and inventory management to sales demographics and product recommendations, all use machine learning. One more interesting business use case that e—commerce apps and websites are trying to solve is to eliminate human interference in providing price suggestions to the sellers on their marketplace to speed up the efficiency of the shopping website or app. That’s when price recommendation using machine learning comes to play.
-
-# 
-IDE - Jupyter Notebook
-
-Programming Languages— Python, R
+  
+  </ol>
