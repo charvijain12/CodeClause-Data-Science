@@ -1,2 +1,2 @@
-# CodeClause-Data-Science
-CodeClause Internship in Data Science
+# CodeClause-Data Science
+CodeClause Internship Projects
